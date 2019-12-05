@@ -16,3 +16,6 @@ Then on another command window, run:
 
 The app will be running locally on 
 <a>http://127.0.0.1:8000/</a>
+
+
+The project is called LiteChamp because I am still learning :D
