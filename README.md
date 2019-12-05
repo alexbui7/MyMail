@@ -1,6 +1,7 @@
 # MyMail
 
-This is a Web app that handles personal emails
+This is a Web app that handles personal emails.
+
 Front End: Boostrap, ReAct 
 Back End: Django, SQLite
 
